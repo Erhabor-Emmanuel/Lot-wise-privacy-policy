@@ -34,7 +34,7 @@ AdMob may collect:
 
 This data is collected by Google, not by us, and is used to serve and improve advertisements.
 
-🔗 Google Privacy Policy: https://policies.google.com/privacy
+Google Privacy Policy: https://policies.google.com/privacy
 
 ---
 
