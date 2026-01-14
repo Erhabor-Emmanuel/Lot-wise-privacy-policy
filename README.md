@@ -7,11 +7,11 @@ title: Privacy Policy
 ## Privacy Policy
 
 **Effective Date:** \January 14, 2026
-**App Name:** \Forex & Futures Lot Size Calculator
+**App Name:** \Lot Wise: Forex & Futures Calc
 **Developer Name:** \TX Innovates
 **Contact Email:** \txinnovates@gmail.com
 
-TX Innovates (“we”, “our”, or “us”) built the Forex & Futures Lot Size Calculator app as a free tool. This app is provided at no cost and is intended for trading calculations only.
+TX Innovates (“we”, “our”, or “us”) built the Lot Wise: Forex & Futures Calc app as a free tool. This app is provided at no cost and is intended for trading calculations only.
 
 ---
 
