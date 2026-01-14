@@ -23,56 +23,51 @@ We do not collect, store, or process any personal user data.
 
 ---
 
-### 2. Advertising (Google AdMob)
+### 2. Third-Party Services (Google AdMob)
 
-The app displays ads provided by Google AdMob.
+To keep this app free, we show advertisements provided by Google AdMob. To function correctly, the AdMob SDK may collect certain data automatically. This data is handled by Google in accordance with their privacy policies.
 
-AdMob may collect:
+Data collected by AdMob may include:
 
-* Advertising identifiers (such as Advertising ID)
-* Anonymous usage data related to ads (e.g., impressions and clicks)
+* Device Identifiers: Such as the Advertising ID.
+* IP Address: Used to estimate the general location (city/country) of the user for relevant advertising.
+* App Performance & Diagnostics: Such as crash logs, launch time, and battery usage.
+* Interaction Data: Anonymous data regarding ad impressions and clicks.
 
-This data is collected by Google, not by us, and is used to serve and improve advertisements.
-
-Google Privacy Policy: https://policies.google.com/privacy
+For more information, please visit: https://policies.google.com/privacy
 
 ---
 
 ### 3. Data Sharing
 
-We do not sell, store, or share user data.
-Any data collected by AdMob is handled in accordance with Google’s privacy policies.
+We do not sell or share any user data with third parties. Any data collected via the AdMob SDK is managed by Google for the purpose of ad delivery and app analytics.
 
 ---
 
 ### 4. Children’s Privacy
 
-This app is not intended for children under the age of 13.
-We do not knowingly collect personal information from children.
+Lot Wise: Forex & Futures Calc does not target and is not intended for children under the age of 13. We do not knowingly collect personal information from children.
 
 ---
 
 ### 5. Data Security
 
-Since no personal data is collected by the app, there is no stored user information at risk. We rely on trusted third-party services (Google AdMob) for secure ad delivery.
+Because we do not store personal user data on our own servers, there is no personal information at risk of a breach from our side. We use industry-standard third-party services (Google) to ensure secure ad delivery.
+
 
 ---
 
-### 6. Your Consent
+### 6. Changes to This Policy
 
-By using this app, you agree to this Privacy Policy.
-
----
-
-### 7. Changes to This Policy
-
-This Privacy Policy may be updated from time to time. Any changes will be reflected here with a revised effective date.
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date."
 
 ---
 
-### 8. Contact Us
+### 7. Contact Us
 
-If you have any questions about this Privacy Policy, contact us at:
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+
+Developer: TX Innovates
 
 📧 \txinnovates@gmail.com
 
